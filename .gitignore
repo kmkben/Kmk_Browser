@@ -1,2 +1,5 @@
 *.o
 KmkBrowser
+moc_predefs.h
+moc_window.cpp
+
